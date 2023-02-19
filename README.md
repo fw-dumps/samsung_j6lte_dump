@@ -1,0 +1,14 @@
+# j6ltexx-user 10 QP1A.190711.020 J600FNXXS9CTI2 release-keys
+- manufacturer: 
+- platform: universal7870
+- codename: j6lte
+- flavor: j6ltexx-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: J600FNXXS9CTI2
+- tags: release-keys
+- fingerprint: samsung/j6ltexx/j6lte:10/QP1A.190711.020/J600FNXXS9CTI2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: j6ltexx-user-10-QP1A.190711.020-J600FNXXS9CTI2-release-keys
+- repo: samsung_j6lte_dump

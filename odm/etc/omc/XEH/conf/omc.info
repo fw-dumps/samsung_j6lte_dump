@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-J600FN_OXM_XEH_QQ_0008</version>
+  <model>
+    <name>SM-J600FN</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0005</customerEdition>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <carrierfeature>no</carrierfeature>
+    <cp>no</cp>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>9</carrierCount>
+    <carrier>
+      <mcc>206</mcc>
+      <mnc>01</mnc>
+      <subsetCode>8013</subsetCode>
+      <codeType>DEC</codeType>
+      <gid>117</gid>
+      <networkName>UPC HU</networkName>
+    </carrier>
+    <carrier>
+      <mcc>216</mcc>
+      <mnc>01</mnc>
+      <networkName>Telenor HU</networkName>
+    </carrier>
+    <carrier>
+      <mcc>216</mcc>
+      <mnc>03</mnc>
+      <networkName>DIGI HU</networkName>
+    </carrier>
+    <carrier>
+      <mcc>216</mcc>
+      <mnc>30</mnc>
+      <networkName>Telekom HU</networkName>
+    </carrier>
+    <carrier>
+      <mcc>216</mcc>
+      <mnc>30</mnc>
+      <networkName>MOL mobile</networkName>
+    </carrier>
+    <carrier>
+      <mcc>216</mcc>
+      <mnc>30</mnc>
+      <networkName>blue mobile</networkName>
+    </carrier>
+    <carrier>
+      <mcc>216</mcc>
+      <mnc>70</mnc>
+      <networkName>vodafone HU</networkName>
+    </carrier>
+    <carrier>
+      <mcc>216</mcc>
+      <mnc>70</mnc>
+      <networkName>Tesco Mobile</networkName>
+    </carrier>
+    <carrier>
+      <mcc>216</mcc>
+      <mnc>71</mnc>
+      <codeType>DEC</codeType>
+      <gid>117</gid>
+      <networkName>UPC HU</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>

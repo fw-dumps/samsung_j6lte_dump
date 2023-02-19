@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-J600FN</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OXM</MultiCode>
+    <CustomerDataSet>
+        <CSCName>J600FNOXM</CSCName>
+        <CSCVersion>9CTI2</CSCVersion>
+        <NbCustomer>21</NbCustomer>
+        <CustomerData src="/Customer/BGL/customer.xml" />
+        <CustomerData src="/Customer/XEU/customer.xml" />
+        <CustomerData src="/Customer/BTU/customer.xml" />
+        <CustomerData src="/Customer/XEF/customer.xml" />
+        <CustomerData src="/Customer/NEE/customer.xml" />
+        <CustomerData src="/Customer/XEO/customer.xml" />
+        <CustomerData src="/Customer/ORX/customer.xml" />
+        <CustomerData src="/Customer/EUR/customer.xml" />
+        <CustomerData src="/Customer/XEZ/customer.xml" />
+        <CustomerData src="/Customer/PHN/customer.xml" />
+        <CustomerData src="/Customer/XEH/customer.xml" />
+        <CustomerData src="/Customer/ATO/customer.xml" />
+        <CustomerData src="/Customer/ITV/customer.xml" />
+        <CustomerData src="/Customer/LUX/customer.xml" />
+        <CustomerData src="/Customer/PHE/customer.xml" />
+        <CustomerData src="/Customer/ROM/customer.xml" />
+        <CustomerData src="/Customer/SEB/customer.xml" />
+        <CustomerData src="/Customer/SEE/customer.xml" />
+        <CustomerData src="/Customer/TPH/customer.xml" />
+        <CustomerData src="/Customer/CPW/customer.xml" />
+        <CustomerData src="/Customer/DBT/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>ATO</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_ATO_QQ_0005</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+            <Packages>
+                <package name="com.hrs.b2c.android" />
+                <package name="b2b.hrs.android.lib" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>BGL</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_BGL_QQ_0003</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>BTU</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_BTU_QQ_0010</Version>
+            <CustomerEdition>ED0007</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>CPW</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_CPW_OO_0006</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>DBT</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_DBT_QQ_0008</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>EUR</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_EUR_QQ_0006</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>ITV</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_ITV_QQ_0007</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>LUX</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_LUX_QQ_0006</Version>
+            <CustomerEdition>ED0007</CustomerEdition>
+            <Packages />
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>NEE</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_NEE_QQ_0007</Version>
+            <CustomerEdition>ED0006</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>ORX</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_ORX_QQ_0004</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>PHE</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_PHE_QQ_0009</Version>
+            <CustomerEdition>ED0007</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>PHN</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_PHN_QQ_0006</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+            <Packages>
+                <package name="com.samsung.intrafficreply" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>ROM</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_ROM_QQ_0008</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SEB</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_SEB_QQ_0003</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SEE</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_SEE_QQ_0006</Version>
+            <CustomerEdition>ED0007</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>TPH</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_TPH_QQ_0007</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+            <Packages>
+                <package name="pt.galp.android.evodriver.samsung" />
+                <package name="pt.sibs.android.mbway" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XEF</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_XEF_QQ_0007</Version>
+            <CustomerEdition>ED0007</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XEH</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_XEH_QQ_0008</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XEO</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_XEO_QQ_0004</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XEU</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_XEU_QQ_0010</Version>
+            <CustomerEdition>ED0007</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XEZ</CustomerCode>
+            <Version>SAOMC_SM-J600FN_OXM_XEZ_QQ_0007</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>
