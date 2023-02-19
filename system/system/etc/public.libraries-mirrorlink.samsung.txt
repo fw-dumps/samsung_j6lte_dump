@@ -1,0 +1,2 @@
+# Put library's name only
+libtmdisplay.mirrorlink.samsung.so

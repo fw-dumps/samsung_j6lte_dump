@@ -1,0 +1,5 @@
+<permissions>
+    <privapp-permissions package="com.samsung.android.knox.attestation">
+        <permission name="com.samsung.android.security.permission.SAMSUNG_KEYSTORE_PERMISSION"/>
+    </privapp-permissions>
+</permissions>
